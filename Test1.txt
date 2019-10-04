@@ -5,4 +5,7 @@ Class MyClassDemo {
 	method2(){
 		syso();
 	}
+	method3(){
+	
+	}
 }
