@@ -6,7 +6,7 @@ Class MyClassDemo {
 		syso();
 	}
 	method3(){
-	
+		syso();
 	}
 	syso();
 	asabhhj sanb;
