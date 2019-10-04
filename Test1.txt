@@ -3,6 +3,6 @@ Class MyClassDemo {
  sdlfdofn sadn    
 
 	method2(){
-
-	}awengsdh
+		syso();
+	}
 }
